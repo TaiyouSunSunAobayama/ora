@@ -1,0 +1,21 @@
+// Place all the styles related to the users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.tweets-container {
+    width: 50%;
+    margin: 10px auto;
+  }
+  h5 {
+    font-size: medium;
+    color: rgba(87, 66, 2, 0.523);
+  }
+
+  .main-box {
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  .time {
+    display: flex;
+    justify-content: flex-end;
+  }

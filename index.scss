@@ -1,0 +1,22 @@
+.tweets-container {
+    width: 50%;
+    margin: 10px auto;
+  }
+  h5 {
+    font-size: medium;
+    color: rgba(87, 66, 2, 0.523);
+  }
+  h3 {
+    font-size: x-large;
+    align-items: center;
+  }
+
+  .main-box {
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  .time {
+    display: flex;
+    justify-content: flex-end;
+  }
